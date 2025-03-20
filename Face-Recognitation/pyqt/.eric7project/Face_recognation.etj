@@ -1,0 +1,49 @@
+{
+  "header": {
+    "comment": "eric tasks file for project Face_recognation",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2025-03-20, 20:38:03"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1742455983.4768956,
+      "type": 2,
+      "uid": "{b09b72b7-9f4d-4187-a3e7-2b09279da244}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Face-Recognitation\\pyqt\\Ui_window1.py"
+    },
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1742455983.4848688,
+      "type": 2,
+      "uid": "{87fe5e7a-6d50-4d97-a551-73fb03da9061}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Face-Recognitation\\pyqt\\Ui_window2.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 63,
+      "completed": false,
+      "created": 1742455983.6029875,
+      "type": 1,
+      "uid": "{e75442ca-cebb-4b88-8cda-cb97a8821d04}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\python\\Deep learning\\Face-Recognitation\\pyqt\\window1.py"
+    }
+  ]
+}
